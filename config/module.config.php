@@ -50,7 +50,13 @@ return [
                 'modules/rcm-google-search-box/' => __DIR__ . '/../public/',
             ],
             'collections' => [
-                'modules/rcm-admin/js/rcm-admin.js' => [
+                'modules/rcm/modules.js' => [
+                    'modules/rcm-google-search-box/rcm-google-search-box.js'
+                ],
+                'modules/rcm/modules.css' => [
+                    'modules/rcm-google-search-box/style.css'
+                ],
+                'modules/rcm-admin/admin.js' => [
                     'modules/rcm-google-search-box/edit.js',
                 ],
             ],

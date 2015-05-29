@@ -1,5 +1,5 @@
 /**
- * RcmGoogleSearchBox
+ * RcmGoogleSearchBox Edit
  *
  * JS for editing RcmGoogleSearchBox
  *
