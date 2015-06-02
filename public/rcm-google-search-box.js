@@ -1,5 +1,5 @@
 /**
- *
+ * rcm-google-search-box
  * @param {int} instanceId
  * @constructor
  */
