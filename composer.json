@@ -39,7 +39,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "reliv/rcm": "0.1.*"
+        "reliv/rcm": "0.*"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "2.*"
